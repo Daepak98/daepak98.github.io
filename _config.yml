@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: "Welcome to Me"
+description: "My name is Deepak Warrier. This website is meant as a means for you to get to know who I am, what I do, and how to get in touch with me."
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://daepak98.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+# Socials
+email: deepakwarrier7@gmail.com
+github_username: daepak98
+linkedin_username: deepak-warrier
 
 # Build settings
 markdown: kramdown
